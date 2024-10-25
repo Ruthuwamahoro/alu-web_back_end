@@ -1,1 +1,1 @@
-# MYSQL Advanced
+This is the SQL advanced projects
